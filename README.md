@@ -1,4 +1,4 @@
 # Assignment2
 ## Result Image
-![/img/Result.png]Result Image
+![Result Image](/img/Result.png)
 ## Original Instructions
