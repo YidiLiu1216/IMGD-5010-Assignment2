@@ -1,4 +1,5 @@
 # Assignment2
+#### I am trying to draw an glitch art image, a human eye image with color shift quads to form a pupil. I want nosie on whole image to make a coarse feeling. And horiztonl shift to make it looks more broken.
 ## Result Image
 ![Result Image](/img/Resutl_Final.png)
 
