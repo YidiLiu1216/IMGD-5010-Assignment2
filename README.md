@@ -1,6 +1,6 @@
 # Assignment2
 ## Result Image
-![Result Image](/img/Result_Final.png)
+![Result Image](/img/Resultl_Final.png)
 
 Link: https://editor.p5js.org/YidiLiu1216/full/1GLihYb3z
 ## Original Instructions
